@@ -1,0 +1,162 @@
+# depslib dependency file v1.0
+1458849231 source:c:\users\thales165\documents\labirinto\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1458839617 c:\users\thales165\documents\labirinto\mapa.h
+	"Coordenada.h"
+
+1458832491 c:\users\thales165\documents\labirinto\coordenada.h
+
+1459370752 source:c:\users\thales165\documents\labirinto - 30.03.2016\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Mapa.h"
+	"Coordenada.h"
+
+1459367558 c:\users\thales165\documents\labirinto - 30.03.2016\mapa.h
+	"Coordenada.h"
+
+1459358102 c:\users\thales165\documents\labirinto - 30.03.2016\coordenada.h
+
+1459453015 source:c:\users\marcelo\desktop\labirinto - 30.03.2016\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Mapa.h"
+	"Coordenada.h"
+
+1459452879 c:\users\marcelo\desktop\labirinto - 30.03.2016\mapa.h
+	"Coordenada.h"
+
+1459371489 c:\users\marcelo\desktop\labirinto - 30.03.2016\coordenada.h
+
+1459371958 source:c:\users\marcelo\desktop\labirinto - 30.03.2016\teste.c
+	<stdlib.h>
+	<stdio.h>
+	"Mapa.h"
+	"Coordenada.h"
+
+1459439506 source:c:\users\thales165\documents\lista lucia\labirinto - 30.03.2016 (3)\labirinto - 30.03.2016\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Mapa.h"
+	"Coordenada.h"
+
+1459452879 c:\users\thales165\documents\lista lucia\labirinto - 30.03.2016 (3)\labirinto - 30.03.2016\mapa.h
+	"Coordenada.h"
+
+1459371489 c:\users\thales165\documents\lista lucia\labirinto - 30.03.2016 (3)\labirinto - 30.03.2016\coordenada.h
+
+1460147082 source:c:\users\thales165\documents\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Mapa.h"
+	"Coordenada.h"
+	"Pilha.h"
+
+1459984563 c:\users\thales165\documents\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\mapa.h
+	"Coordenada.h"
+
+1459371489 c:\users\thales165\documents\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\coordenada.h
+
+1460143514 source:c:\users\thales165\documents\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\mapa.c
+	<stdlib.h>
+	<stdio.h>
+	"Mapa.h"
+	"Coordenada.h"
+
+1460143866 c:\users\thales165\documents\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\pilha.h
+	"Coordenada.h"
+
+1459794602 c:\users\thales165\documents\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\fila.h
+	"Coordenada.h"
+	"Pilha.h"
+
+1460166376 source:c:\users\marcelo\desktop\atualizado\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\mapa.c
+	<stdlib.h>
+	<stdio.h>
+	"Mapa.h"
+	"Coordenada.h"
+	"Pilha.h"
+
+1460165930 c:\users\marcelo\desktop\atualizado\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\mapa.h
+	"Coordenada.h"
+	"Pilha.h"
+
+1460132746 c:\users\marcelo\desktop\atualizado\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\coordenada.h
+
+1460165887 source:c:\users\marcelo\desktop\atualizado\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Mapa.h"
+	"Coordenada.h"
+	"Pilha.h"
+
+1460166300 c:\users\marcelo\desktop\atualizado\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\pilha.h
+	"Coordenada.h"
+
+1460165804 source:c:\users\marcelo\desktop\atualizado\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\pilha.c
+	<stdlib.h>
+	<stdio.h>
+	"Pilha.h"
+	"Coordenada.h"
+
+1460391769 source:c:\users\thales165\documents\marcelo (1)\atualizado\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Mapa.h"
+	"Coordenada.h"
+	"Pilha.h"
+
+1460165930 c:\users\thales165\documents\marcelo (1)\atualizado\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\mapa.h
+	"Coordenada.h"
+	"Pilha.h"
+
+1460132746 c:\users\thales165\documents\marcelo (1)\atualizado\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\coordenada.h
+
+1460391496 c:\users\thales165\documents\marcelo (1)\atualizado\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\pilha.h
+	"Coordenada.h"
+
+1460392959 source:c:\users\thales165\documents\marcelo (1)\atualizado\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\mapa.c
+	<stdlib.h>
+	<stdio.h>
+	"Mapa.h"
+	"Coordenada.h"
+	"Pilha.h"
+
+1460391699 source:c:\users\thales165\documents\marcelo (1)\atualizado\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\teste.c
+	"Pilha.h"
+	"Coordenada.h"
+	"Mapa.h"
+
+1460412803 source:c:\users\marcelo\desktop\11-04\marcelo (1)\atualizado\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Mapa.h"
+	"Coordenada.h"
+	"Pilha.h"
+
+1460398863 c:\users\marcelo\desktop\11-04\marcelo (1)\atualizado\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\mapa.h
+	"Coordenada.h"
+	"Pilha.h"
+
+1460381466 c:\users\marcelo\desktop\11-04\marcelo (1)\atualizado\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\coordenada.h
+
+1460381468 c:\users\marcelo\desktop\11-04\marcelo (1)\atualizado\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\pilha.h
+	"Coordenada.h"
+
+1460413332 source:c:\users\marcelo\desktop\11-04\marcelo (1)\atualizado\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\mapa.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	"Mapa.h"
+	"Coordenada.h"
+	"Pilha.h"
+
+1460381468 source:c:\users\marcelo\desktop\11-04\marcelo (1)\atualizado\labirinto - 30.03.2016 (4)\labirinto - 30.03.2016\teste.c
+	"Pilha.h"
+	"Coordenada.h"
+	"Mapa.h"
+
